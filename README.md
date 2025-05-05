@@ -28,5 +28,5 @@
 * The logistic regression model achieved a very high overall accuracy of 99%.
 It predicts high-risk loans with near-perfect precision and recall, making it highly reliable for identifying risky borrowers. While the model also performs well in identifying healthy loans, it shows slightly lower precision for this class, meaning there is a small chance of misclassifying healthy loans as risky.
 
-**Recommendation:**
+**Recommendation**
 * I recommend this model for use by the company because it excels at identifying high-risk loans, which is crucial for minimizing potential defaults. However, additional refinement or complementary models could be considered in the future to further improve performance on healthy loan classification.
